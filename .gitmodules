@@ -22,3 +22,6 @@
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/jshint"]
+	path = bundle/jshint
+	url = git://github.com/walm/jshint.vim.git
